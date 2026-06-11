@@ -7,8 +7,8 @@
 </head>
 <body>
     <?php
-        $aa = array("mariya","bansi");
-        $bb = array("pritha","dhyey");
+        $aa = array("mariya","frenchfries");
+        $bb = array("pritha","icecream");
         
         echo "MERGE ARRAY" . "</br>";
         
